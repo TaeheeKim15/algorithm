@@ -25,3 +25,7 @@ public class GenericClassTester {
 	}
 
 }
+
+// 형변환에 와일드 카드 지정
+// <? extends T> : 클래스 T의 서브 클래스를 전달받습니다.
+// <? super T>   : 클래스 T의 슈퍼 클래스를 전달받습니다.
