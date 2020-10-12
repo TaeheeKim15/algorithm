@@ -19,5 +19,4 @@ public class A implements Comparable<A>{
 		// this가 c와 같으면 true 반환
 		// this가 c와 같지 않음녀 false 반환
 	}
-
 }

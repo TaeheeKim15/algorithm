@@ -10,8 +10,16 @@
 
 ### 학습 날짜 : 2020-10-10, 토
 
-- Do it! - 03장 검색 ( p. 120 ~ p. )
+- Do it! - 03장 검색 ( p. 120 ~ p.127 )
   - 기본 자료형 배열에서 binarySearch 메서드로 검색 실습
   - 객체의 배열에서 검색하기
   	- static int binarySearch(Object[] a, Object key)
   	- static <T> int binary Search(T[] a, T key, Comparator<? super T> c)
+  	
+ ### 학습 날짜 : 2020-10-12, 월
+
+- Do it! - 03장 검색 ( p. 127 ~ p.131)
+  - 기본 자료형 배열에서 binarySearch 메서드로 검색 실습
+  - 객체의 배열에서 검색하기
+  	- PhysExamSearch 클래스
+  	- GenericClassTester 클래스
