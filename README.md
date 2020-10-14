@@ -23,3 +23,12 @@
   - 객체의 배열에서 검색하기
   	- PhysExamSearch 클래스
   	- GenericClassTester 클래스
+  	
+ ### 학습 날짜 : 2020-10-14, 수
+ 
+ - Do it! - 04장 스택과 큐 ( p. 133 ~ p.)
+  - 스택 만들기 예제
+  	- IntStack 클래스 
+  		- push 메서드
+  		- pop 메서드
+  	- IntStackTester 클래스
