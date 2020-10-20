@@ -16,7 +16,7 @@
   	- static int binarySearch(Object[] a, Object key)
   	- static <T> int binary Search(T[] a, T key, Comparator<? super T> c)
   	
- ### 학습 날짜 : 2020-10-12, 월
+### 학습 날짜 : 2020-10-12, 월
 
 - Do it! - 03장 검색 ( p. 127 ~ p.131)
   - 기본 자료형 배열에서 binarySearch 메서드로 검색 실습
@@ -24,7 +24,7 @@
   	- PhysExamSearch 클래스
   	- GenericClassTester 클래스
   	
- ### 학습 날짜 : 2020-10-14, 수
+### 학습 날짜 : 2020-10-14, 수
  
  - Do it! - 04장 스택과 큐 ( p. 133 ~ p. 144 )
   - 스택 만들기 예제
@@ -42,5 +42,14 @@
 
  - Do it!- 04장 스택과 큐 ( p. 150 ~ p. 159 )
  	- IntQueueTester 클래스 예제
-  - 
+ 	
+### 학습 날짜 : 2020-10-20, 화
+
+ - Do it!- 05장 재귀 알고리즘 ( p. 165 ~ p. 172)
+ 	- 1 단원 : 재귀의 기본
+	 	- Factorial 클래스 예제
+	 	- EuclidGCD 클래스 예제
+	- 2 단원 : 재귀 알고리즘 분석
+		- Recur 클래스 예제
+  
 
