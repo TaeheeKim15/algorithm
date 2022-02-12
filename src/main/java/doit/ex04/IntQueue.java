@@ -1,4 +1,4 @@
-package com.kimst.doit.ex04;
+package doit.ex04;
 // int형 큐
 public class IntQueue {
 	private int max;	// 큐의 용량

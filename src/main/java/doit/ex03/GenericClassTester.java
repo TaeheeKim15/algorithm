@@ -1,4 +1,4 @@
-package com.kimst.doit.ex03;
+package doit.ex03;
 // 제네릭 클래스의 예
 
 

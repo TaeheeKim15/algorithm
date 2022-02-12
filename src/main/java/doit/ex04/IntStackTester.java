@@ -1,4 +1,4 @@
-package com.kimst.doit.ex04;
+package doit.ex04;
 
 import java.util.Scanner;
 // int형 스택의 사용 예

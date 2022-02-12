@@ -1,4 +1,4 @@
-package com.kimst.doit.ex03;
+package doit.ex03;
 
 import java.util.Arrays;
 import java.util.Scanner;

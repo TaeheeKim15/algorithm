@@ -1,4 +1,4 @@
-package com.kimst.doit.ex03;
+package doit.ex03;
 // 아이디를 부여하는 클래스
 
 class Id {

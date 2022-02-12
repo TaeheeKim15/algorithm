@@ -1,6 +1,6 @@
-package com.kimst.doit;
+package doit.etc;
 
-public class 자리뽑기 {
+public class ChangeSeat {
   public static void main(String[] args) {
 
     String[] arr = {"권구현", "김성태", "김유아","김찬구","김태희","김하연","류승희","신소미",

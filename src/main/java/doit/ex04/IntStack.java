@@ -1,4 +1,4 @@
-package com.kimst.doit.ex04;
+package doit.ex04;
 // int 스택
 
 public class IntStack {

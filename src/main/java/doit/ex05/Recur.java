@@ -1,4 +1,4 @@
-package com.kimst.doit.ex05;
+package doit.ex05;
 
 import java.util.Scanner;
 
